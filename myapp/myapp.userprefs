@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{DFB6A94A-6472-4016-9BAA-C6478887E4AD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="myapp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myapp/EmptyClass.cs">
     <Files>
-      <File FileName="myapp/Program.cs" Line="1" Column="1" />
+      <File FileName="myapp/Program.cs" Line="3" Column="1" />
+      <File FileName="myapp/EmptyClass.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.myapp PreferredExecutionTarget="MonoDevelop.Default" />

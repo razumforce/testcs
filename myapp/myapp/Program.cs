@@ -6,7 +6,12 @@ namespace myapp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Point p1 = new Point();
+            p1.x = 2;
+            p1.y = 2;
+            p1.sym = '#';
+
+            p1.Draw();
         }
     }
 }

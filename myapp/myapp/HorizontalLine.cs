@@ -3,11 +3,10 @@ using System.Collections.Generic;
 
 namespace myapp
 {
-    public class HorizonatalLine
+    public class HorizontalLine : Figure
     {
-        List<Point> pList;
 
-        public HorizonatalLine(int xLeft, int xRight, int y, char sym)
+        public HorizontalLine(int xLeft, int xRight, int y, char sym)
         {
             pList = new List<Point>();
             for (int x = xLeft; x <= xRight; x++)
@@ -16,12 +15,6 @@ namespace myapp
             }
         }
 
-        public void Draw()
-        {
-            foreach(int p in pList)
-            {
-                p.Draw();
-            }
-        }
+
     }
 }

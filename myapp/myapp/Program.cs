@@ -7,12 +7,15 @@ namespace myapp
     {
         public static void Main(string[] args)
         {
-            List<Point> pList = new List<Point>();
+            //Console.SetBufferSize(80, 20);
+            HorizontalLine hLine = new HorizontalLine(4, 7, 8, '=');
 
+            VerticalLine vLine = new VerticalLine(4, 7, 8, '+');
 
-            pList.Add(new Point(1, 2, '%'));
+            vLine.pList[0].x = 5;
 
-            pList[0].Draw();
+            hLine.Draw();
+            vLine.Draw();
         }
 
     }

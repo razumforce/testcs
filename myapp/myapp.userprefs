@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{DFB6A94A-6472-4016-9BAA-C6478887E4AD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="myapp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="myapp/Figure.cs">
     <Files>
-      <File FileName="myapp/Program.cs" Line="3" Column="16" />
+      <File FileName="myapp/Program.cs" Line="13" Column="55" />
       <File FileName="myapp/Point.cs" Line="19" Column="10" />
+      <File FileName="myapp/HorizontalLine.cs" Line="25" Column="10" />
+      <File FileName="myapp/VerticalLine.cs" Line="2" Column="1" />
+      <File FileName="myapp/Figure.cs" Line="3" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.myapp PreferredExecutionTarget="MonoDevelop.Default" />

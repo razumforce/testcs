@@ -1,0 +1,5 @@
+/Users/razum/Documents/coding/visualcs/testcs/myapp/myapp/bin/Debug/myapp.exe
+/Users/razum/Documents/coding/visualcs/testcs/myapp/myapp/bin/Debug/myapp.pdb
+/Users/razum/Documents/coding/visualcs/testcs/myapp/myapp/obj/x86/Debug/myapp.csproj.CoreCompileInputs.cache
+/Users/razum/Documents/coding/visualcs/testcs/myapp/myapp/obj/x86/Debug/myapp.exe
+/Users/razum/Documents/coding/visualcs/testcs/myapp/myapp/obj/x86/Debug/myapp.pdb
